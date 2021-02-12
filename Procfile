@@ -1,1 +1,1 @@
-worker: python3 Code/GT.py
+worker: python3 /app/Code/GT.py
